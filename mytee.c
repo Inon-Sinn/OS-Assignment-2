@@ -30,6 +30,7 @@ int main(int argc, char *argv[]){
     }
     
     // Part 3 - Write to stdout
+    printf("%s",line);
     free(line);
 
     return 0;
