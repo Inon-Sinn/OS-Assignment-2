@@ -5,12 +5,12 @@
   
  ## About
  This Assignment had a total of 8 questions divided into two Parts: A and B.</br>
- In Part A we deepend our understanding of</br>
+ In Part A we deepend our understanding of the linux commands tee(1) and nc(1)</br>
  In Part B we </br>
  
  *Part A*
  * 1. Writing our own version of tee(1), without the arguments
- * 2. 
+ * 2. Recreating nc(1) but only for TCP client/server
  
  *Part B*
  * 1.
@@ -80,3 +80,7 @@ Script done on 2022-11-30 23:14:19+02:00 [COMMAND_EXIT_CODE="0"]
 ````  
   
 </details> 
+
+**Part A.2**
+
+![](https://github.com/Inon-Sinn/OS-Assignment-2/blob/master/Recordings/Part%20A.2%20version%202.gif)
