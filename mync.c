@@ -78,14 +78,11 @@ void build_server(int port){
     }
 
     // Read 10 messages from the client
-    char value; 
+    char value[1] = {0}; 
     for (;;){
         read(connect_sock, &value, 1);
-        printf("%c",value);
-        if (value == EOF) {
-            printf("Server Exit...\n");
-            break;
-        }
+        printf("%s",value);
+        bzero(value,sizeof(value));
     }
 
     // closing the socket
