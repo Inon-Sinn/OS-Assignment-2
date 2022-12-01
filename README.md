@@ -1,5 +1,5 @@
 # OS-Assignment-2
-*Authors:
+*Authors:</br>
   Inon Sinn - 209632009</br>
   Israel Yacovowich - 212403679</br>*
   
@@ -83,4 +83,4 @@ Script done on 2022-11-30 23:14:19+02:00 [COMMAND_EXIT_CODE="0"]
 
 **Part A.2**
 
-![](https://github.com/Inon-Sinn/OS-Assignment-2/blob/master/Recordings/Part%20A.2%20version%202.gif)
+![](https://github.com/Inon-Sinn/OS-Assignment-2/blob/master/Recordings/Part%20A.2%20version%203.gif)
