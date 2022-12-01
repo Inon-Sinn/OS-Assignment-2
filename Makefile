@@ -1,6 +1,6 @@
 .PHONY: all 
 
-all: mytee mync
+all: mytee mync myshell
 
 mytee: mytee.c
 	gcc -o mytee mytee.c
@@ -13,4 +13,4 @@ myshell: myshell.c
 
 .PHONY: clean
 clean: 
-		rm -f *.o *.a *.so mytee mync
+		rm -f *.o *.a *.so mytee mync myshell
