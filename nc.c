@@ -82,6 +82,10 @@ void build_server(int port){
     for (;;){
         read(connect_sock, &value, 1);
         printf("%c",value);
+        if (value == EOF) {
+            printf("Server Exit...\n");
+            break;
+        }
     }
 
     // closing the socket
