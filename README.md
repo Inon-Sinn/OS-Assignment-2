@@ -13,8 +13,8 @@
  * 2. Recreating nc(1) but only for TCP client/server
  
  *Part B*
- * 1.Implement The dir(1) command
- * 2.Implement copy that gets 2 files and copies from one to the other
+ * 1. Implement The dir(1) command
+ * 2. Implement copy that gets 2 files and copies from one to the other
  * 3.
  * 4.
  * 5.
@@ -22,8 +22,8 @@
 
   ## Refernces
   Question A.1 - [Example of using getline(3)](https://linuxhint.com/read-lines-stdin-c-programming/)</br>
-  Question A.2 - [TCP Client/server](https://www.geeksforgeeks.org/tcp-server-client-implementation-in-c/)
-  Question B.1 - [Video about list files in a directory](https://www.youtube.com/watch?v=j9yL30R6npk&t=291s&ab_channel=CodeVault)
+  Question A.2 - [TCP Client/server](https://www.geeksforgeeks.org/tcp-server-client-implementation-in-c/)</br>
+  Question B.1 - [Video about list files in a directory](https://www.youtube.com/watch?v=j9yL30R6npk&t=291s&ab_channel=CodeVault)</br>
   
   ## Scripts
   As the scripts using scipt(1) places everything in the log file, including linefeeds and backspaces. This is not what the naive user expects.</br>
