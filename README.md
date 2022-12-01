@@ -21,7 +21,8 @@
  * 6.
 
   ## Refernces
-  for Question 1 - [Example of using getline(3)](https://linuxhint.com/read-lines-stdin-c-programming/)
+  for Question 1 - [Example of using getline(3)](https://linuxhint.com/read-lines-stdin-c-programming/)</br>
+  for Question 2 - [TCP Client/server](https://www.geeksforgeeks.org/tcp-server-client-implementation-in-c/)
   
   
   ## Scripts
